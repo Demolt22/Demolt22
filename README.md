@@ -148,9 +148,8 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zedoman&show_icons=true&locale=en" alt="zedoman" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Demolt22&show_icons=true&locale=en" alt="Demolt22" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zedoman&" alt="zedoman" /></p>
 
 
 

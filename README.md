@@ -1,4 +1,4 @@
-[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)](https://zedoman.github.io/Portfolio/)
+[![MasterHead](https://www.freepik.com/free-vector/man-working-using-laptop-flat-design_24558479.htm#fromView=search&page=1&position=12&uuid=a48ac2cc-d97b-4b5a-b56f-4bca567dc812)](https://github.com/Demolt22)
 <h1 align="center">Hi 👋, I'm BALARAM CHAKRABORTY</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 

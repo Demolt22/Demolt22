@@ -5,7 +5,7 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zedoman&label=Profile%20views&color=0e75b6&style=flat" alt="BALARAM CHAKRABORTY" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Demolt22&label=Profile%20views&color=0e75b6&style=flat" alt="BALARAM CHAKRABORTY" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/Demolt22](https://github.com/Demolt22)
 
@@ -38,13 +38,18 @@
 
 <p align="center">
 <img
+    src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&amp;logo=c&amp;logoColor=white"
+    alt="C++"
+/>      
+<img
     src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"
     alt="Java"
 />    
+    
 <img
-    src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&amp;logo=c&amp;logoColor=white"
-    alt="C++"
-/>       
+    src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&amp;logo=python&amp;logoColor=ffdd54"
+    alt="Python"
+/>    
 </p>
 
 <p align="center">

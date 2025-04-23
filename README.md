@@ -9,11 +9,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Demolt22](https://github.com/Demolt22)
 
-- 🔭 I’m currently studying on <strong>Adamas University</strong> 🔭
+- 🔭 I’m currently studying at <strong>Adamas University</strong> 🔭
 
 -  🎓 Graduated in <strong>Computer Engineering(in 2025)
-
-- 💬 Ask me about **MERN**
 
 - 📫 How to reach me **balramc2202@gmail.com**
 

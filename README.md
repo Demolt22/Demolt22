@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently studying at <strong>Adamas University</strong> 🔭
 
--  🎓 Graduated in <strong>Computer Engineering(in 2025)
+-  🎓 Graduating in <strong>Computer Engineering(in 2025)
 
 - 📫 How to reach me **balramc2202@gmail.com**
 
